@@ -1,0 +1,21 @@
+body {
+    background-color: #80808d;
+    color: #1E1B23;
+}
+
+.card-header {
+    background-color: #E49B6C;
+    color: #1E1B23;
+}
+
+.card-body {
+    background-color: #efeaed;
+}
+
+a {
+    color: #1E1B23;
+}
+
+a:hover {
+    text-decoration: none;
+}
